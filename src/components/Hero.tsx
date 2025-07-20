@@ -14,10 +14,10 @@ const Hero = () => {
       <div className="container mx-auto px-6 text-center relative z-10">
         <div className="animate-fade-in">
           <h1 className="text-6xl md:text-8xl font-bold text-primary-foreground mb-6 drop-shadow-lg">
-            Bhola Shankar
+            Bhola Shankar Sharma
           </h1>
           <p className="text-xl md:text-2xl text-primary-foreground/90 mb-8 max-w-2xl mx-auto leading-relaxed">
-            Excellence Award Recipient & Professional Leader
+            Marketing Analyst & Business Intelligence Expert | Excellence Award Recipient
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button 
